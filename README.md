@@ -1,4 +1,4 @@
-# 🚀 Git Commands Reference Guide
+# Git Commands Reference Guide
 
 Your complete reference for Git workflows - from beginner to everyday use!
 
@@ -16,7 +16,7 @@ Your complete reference for Git workflows - from beginner to everyday use!
 
 ---
 
-## 🔧 Initial Setup
+## Initial Setup
 
 ### First-time Git configuration
 ```bash
@@ -48,7 +48,7 @@ cat ~/.ssh/id_ed25519.pub | pbcopy
 
 ---
 
-## 📁 Creating Repositories
+## Creating Repositories
 
 ### Option 1: Start Locally, Add to GitHub Later
 ```bash
@@ -84,7 +84,7 @@ git clone https://github.com/USERNAME/PRIVATE-REPO.git
 
 ---
 
-## ⚡ Basic Workflow
+## Basic Workflow
 
 ### Daily Git Commands
 ```bash
@@ -131,7 +131,7 @@ git add -p filename.py
 
 ---
 
-## 🌐 GitHub Integration
+## GitHub Integration
 
 ### Creating GitHub Repository
 
@@ -170,7 +170,7 @@ git remote remove origin
 
 ---
 
-## 🌿 Branching & Merging
+## Branching & Merging
 
 ### Basic Branching
 ```bash
@@ -228,7 +228,7 @@ git push origin --delete feature-name
 
 ---
 
-## 📜 Viewing History
+## Viewing History
 
 ### Commit History
 ```bash
@@ -271,7 +271,7 @@ git log -p filename.py
 
 ---
 
-## ↩️ Undoing Changes
+## Undoing Changes
 
 ### Undoing Uncommitted Changes
 ```bash
@@ -318,7 +318,7 @@ git reset HEAD~1 filename.py
 
 ---
 
-## 👥 Collaboration
+## Collaboration
 
 ### Getting Updates
 ```bash
@@ -368,7 +368,7 @@ git stash drop stash@{1}
 
 ---
 
-## 💡 Useful Tips
+## Useful Tips
 
 ### Aliases (Make Git Easier)
 ```bash
@@ -419,7 +419,7 @@ git remote show origin
 
 ---
 
-## 🆘 Troubleshooting
+## Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -471,7 +471,7 @@ git reset --hard origin/main
 
 ---
 
-## 🎯 Workflow Examples
+## Workflow Examples
 
 ### Feature Development Workflow
 ```bash
@@ -541,7 +541,7 @@ git push
 
 ---
 
-## 📚 Quick Reference Card
+## Quick Reference Card
 
 ```bash
 # Setup
@@ -575,6 +575,6 @@ git checkout -- <file>   # Discard file changes
 
 ---
 
-**Keep this reference handy for all your Git needs!** 🚀
+**Keep this reference handy for all your Git needs!** 
 
 *Pro tip: Bookmark this file and refer to it whenever you need a quick Git command!* 
