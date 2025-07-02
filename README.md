@@ -2,7 +2,7 @@
 
 Your complete reference for Git workflows - from beginner to everyday use!
 
-## 📋 Table of Contents
+## Table of Contents
 - [Initial Setup](#-initial-setup)
 - [Creating Repositories](#-creating-repositories)
 - [Basic Workflow](#-basic-workflow)
